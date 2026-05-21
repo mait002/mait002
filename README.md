@@ -21,7 +21,7 @@ Contributing to research exploring safe AI integration in software development w
 ## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,cs,mysql,html,css,python" />
+<img src="https://skillicons.dev/icons?i=java,js,react,cs,mysql,html,css,python" />
 
 
 ### Frameworks & Tools
