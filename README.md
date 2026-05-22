@@ -26,9 +26,9 @@ Contributing to research exploring safe AI integration in software development w
 
 <h3>Frameworks & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,bootstrap,nextjs,ts\n" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm,supabase,vercel,vite,jenkins,ansible,tableu\n" />
-<img src="https://skillicons.dev/icons?i=aws,gcp\n" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,bootstrap,nextjs,typescript" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm,supabase,vercel,vite,jenkins,ansible" />
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
